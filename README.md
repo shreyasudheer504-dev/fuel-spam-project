@@ -125,6 +125,7 @@ Malavika
 Ananadhakrishnan
 
 ▶ How to Run the Project
+
 Install dependencies
 pip install -r requirements.txt
 
